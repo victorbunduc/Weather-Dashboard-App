@@ -1,3 +1,4 @@
+![weather dashboard](https://user-images.githubusercontent.com/71414528/98449926-e027af80-20ec-11eb-9ee5-35d5fc19ca99.png)
 
 # Project Description
 
