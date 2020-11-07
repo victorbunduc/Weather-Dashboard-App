@@ -13,3 +13,4 @@
 * Additionally, if the user closes the window or refreshes the browser, the search history buttons remain, and the app will open up with weather results for the last city the user searched for. 
 * Finally, clicking the "Clear History" button clears the user's local storage and removes the history buttons from the page.
 
+See the Deployed App Here:
